@@ -1,5 +1,6 @@
-*.csv
 __pycache__
+_temp_
 *.temp
-*.mm
 *.cc
+*.bb
+*.csv
