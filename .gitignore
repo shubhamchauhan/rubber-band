@@ -4,3 +4,6 @@ _temp_
 *.cc
 *.bb
 *.csv
+*.mm
+*.index
+*.dict
